@@ -1,4 +1,4 @@
-These scripts display various metrics so as to gain insight into the relationship between system resources, postgresql and pgbench.
+These scripts display various metrics so as to gain insight into the relationship between system resources, postgresql, pgbouncer, and pgbench.
 
 
 
